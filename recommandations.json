@@ -1,0 +1,182 @@
+[
+{
+"id": 1,
+"categorie": "Alimentation",
+"sousCategorie": "Fruits et légumes",
+"public": "Adultes",
+"titre": "Consommer des fruits et légumes",
+"recommandation": "Au moins 5 portions de fruits et légumes par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 2,
+"categorie": "Alimentation",
+"sousCategorie": "Fruits et légumes",
+"public": "Enfants",
+"titre": "Introduire les fruits et légumes tôt",
+"recommandation": "Proposer des fruits et légumes à chaque repas",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 3,
+"categorie": "Alimentation",
+"sousCategorie": "Boissons",
+"public": "Adultes",
+"titre": "Boire de l’eau régulièrement",
+"recommandation": "Privilégier l’eau comme boisson principale",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 4,
+"categorie": "Alimentation",
+"sousCategorie": "Boissons",
+"public": "Personnes âgées",
+"titre": "Hydratation chez les seniors",
+"recommandation": "Boire régulièrement même sans sensation de soif",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 5,
+"categorie": "Alimentation",
+"sousCategorie": "Sucres",
+"public": "Adultes",
+"titre": "Limiter les sucres",
+"recommandation": "Réduire la consommation de produits sucrés",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 6,
+"categorie": "Alimentation",
+"sousCategorie": "Sel",
+"public": "Adultes",
+"titre": "Limiter le sel",
+"recommandation": "Ne pas dépasser 5g de sel par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 7,
+"categorie": "Alimentation",
+"sousCategorie": "Produits laitiers",
+"public": "Adultes",
+"titre": "Consommer des produits laitiers",
+"recommandation": "2 produits laitiers par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 8,
+"categorie": "Alimentation",
+"sousCategorie": "Produits laitiers",
+"public": "Enfants",
+"titre": "Croissance et calcium",
+"recommandation": "3 produits laitiers par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 9,
+"categorie": "Alimentation",
+"sousCategorie": "Viandes",
+"public": "Adultes",
+"titre": "Limiter la viande rouge",
+"recommandation": "Pas plus de 500g par semaine",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 10,
+"categorie": "Alimentation",
+"sousCategorie": "Poissons",
+"public": "Adultes",
+"titre": "Consommer du poisson",
+"recommandation": "2 fois par semaine dont un poisson gras",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 11,
+"categorie": "Activité physique",
+"sousCategorie": "Cardio",
+"public": "Adultes",
+"titre": "Activité physique régulière",
+"recommandation": "30 minutes d’activité physique par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 12,
+"categorie": "Activité physique",
+"sousCategorie": "Cardio",
+"public": "Enfants",
+"titre": "Bouger tous les jours",
+"recommandation": "Au moins 1 heure d’activité physique quotidienne",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 13,
+"categorie": "Activité physique",
+"sousCategorie": "Mobilité",
+"public": "Personnes âgées",
+"titre": "Maintenir la mobilité",
+"recommandation": "Activité douce quotidienne (marche, étirements)",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 14,
+"categorie": "Activité physique",
+"sousCategorie": "Renforcement",
+"public": "Adultes",
+"titre": "Renforcement musculaire",
+"recommandation": "Faire du renforcement musculaire 2 fois par semaine",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 15,
+"categorie": "Activité physique",
+"sousCategorie": "Sédentarité",
+"public": "Adultes",
+"titre": "Réduire la sédentarité",
+"recommandation": "Limiter le temps assis prolongé",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 16,
+"categorie": "Activité physique",
+"sousCategorie": "Sédentarité",
+"public": "Enfants",
+"titre": "Limiter les écrans",
+"recommandation": "Réduire le temps passé devant les écrans",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 17,
+"categorie": "Alimentation",
+"sousCategorie": "Céréales",
+"public": "Adultes",
+"titre": "Favoriser les céréales complètes",
+"recommandation": "Consommer des produits céréaliers complets",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 18,
+"categorie": "Alimentation",
+"sousCategorie": "Matières grasses",
+"public": "Adultes",
+"titre": "Choisir les bonnes graisses",
+"recommandation": "Privilégier les huiles végétales (olive, colza)",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 19,
+"categorie": "Alimentation",
+"sousCategorie": "Alcool",
+"public": "Adultes",
+"titre": "Limiter l’alcool",
+"recommandation": "Pas plus de 2 verres par jour",
+"source": "Manger Bouger / PNNS"
+},
+{
+"id": 20,
+"categorie": "Activité physique",
+"sousCategorie": "Équilibre",
+"public": "Personnes âgées",
+"titre": "Prévenir les chutes",
+"recommandation": "Faire des exercices d’équilibre régulièrement",
+"source": "Manger Bouger / PNNS"
+}
+]
